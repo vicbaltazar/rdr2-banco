@@ -1,0 +1,245 @@
+{
+  "gangue": {
+    "van_der_linde": [
+      {
+        "id": 1,
+        "nome": "Arthur Morgan",
+        "idade": 36,
+        "sexo": "masculino",
+        "personalidade": "leal, corajoso, complexo",
+        "historia": "Arthur é o protagonista do jogo e um membro leal da gangue Van der Linde. Ele é conhecido por sua habilidade em combate e sua moral complexa, muitas vezes questionando as ações da gangue.",
+        "habilidades": [
+          "olho da morte",
+          "natação",
+          "tiro preciso",
+          "resistência física",
+          "sobrevivência"
+        ],
+        "fraquezas": [
+          "dependência de drogas",
+          "problemas de saúde",
+          "conflitos internos",
+          "dificuldade em confiar nos outros",
+          "tuberculose"
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "Dutch van der Linde",
+        "idade": 50,
+        "sexo": "masculino",
+        "personalidade": "carismático, manipulador, idealista",
+        "historia": "Dutch é o líder da gangue Van der Linde. Ele é carismático e tem uma visão idealista de um mundo melhor, mas suas ações muitas vezes levam a consequências desastrosas para a gangue.",
+        "habilidades": [
+          "liderança",
+          "oratória",
+          "estratégia",
+          "manipulação",
+          "combate corpo a corpo"
+        ],
+        "fraquezas": [
+          "teimosia",
+          "paranoia",
+          "dificuldade em aceitar a realidade",
+          "conflitos internos",
+          "tendência a tomar decisões impulsivas",
+          "narcisismo"
+        ]
+      },
+      {
+        "id": 4,
+        "nome": "Hosea Matthews",
+        "idade": 42,
+        "sexo": "masculino",
+        "personalidade": "calmo, reflexivo, leal",
+        "historia": "Hosea é um membro da gangue Van der Linde que se tornou um mentor para os outros membros. Ele é conhecido por sua calma e sabedoria, muitas vezes ajudando a resolver conflitos internos da gangue.",
+        "habilidades": [
+          "comunicação",
+          "resistência mental",
+          "sobrevivência",
+          "equitação e monejo"
+        ],
+        "fraquezas": [
+          "dificuldade em lidar com conflitos violentos",
+          "tendência a ser passivo",
+          "dificuldade em tomar decisões difíceis"
+        ]
+      },
+      {
+        "id": 5,
+        "nome": "Micah Bell",
+        "idade": 35,
+        "sexo": "masculino",
+        "personalidade": "inteligente, calculador, leal",
+        "historia": "Micah é um membro da gangue Van der Linde que é conhecido por sua inteligência e habilidades de estratégia. Ele é leal à gangue e muitas vezes atua como um conselheiro estratégico.",
+        "habilidades": [
+          "inteligência",
+          "estratégia",
+          "comunicação",
+          "resistência mental"
+        ],
+        "fraquezas": [
+          "tendência a ser manipulador",
+          "dificuldade em confiar nos outros",
+          "falta de empatia"
+        ]
+      },
+      {
+        "id": 7,
+        "nome": "Charles Smith",
+        "idade": 32,
+        "sexo": "masculino",
+        "personalidade": "calmo, leal, habilidoso",
+        "historia": "Charles é um membro da gangue Van der Linde que é conhecido por suas habilidades de caça e sobrevivência. Ele é leal à gangue e muitas vezes atua como um caçador e rastreador.",
+        "habilidades": [
+          "caça",
+          "rastreamento",
+          "resistência física",
+          "sobrevivência",
+          "combate corpo a corpo"
+        ],
+        "fraquezas": [
+          "dificuldade em lidar com conflitos violentos",
+          "tendência a ser reservado",
+          "dificuldade em confiar nos outros"
+        ]
+      },
+      {
+        "id": 8,
+        "nome": "Bill Williamson",
+        "idade": 40,
+        "sexo": "masculino",
+        "personalidade": "agressivo, leal, impulsivo",
+        "historia": "Bill é um membro da gangue Van der Linde que é conhecido por sua agressividade e lealdade à gangue. Ele é impulsivo e muitas vezes age sem pensar nas consequências.",
+        "habilidades": [
+          "combate corpo a corpo",
+          "resistência física",
+          "sobrevivência",
+          "tiro preciso"
+        ],
+        "fraquezas": [
+          "impulsividade",
+          "dificuldade em lidar com conflitos violentos",
+          "tendência a se isolar"
+        ]
+      },
+      {
+        "id": 9,
+        "nome": "Javier Escuella",
+        "idade": 34,
+        "sexo": "masculino",
+        "personalidade": "leal, corajoso, complexo",
+        "historia": "Javier é um membro da gangue Van der Linde que é conhecido por sua lealdade e coragem. Ele tem um passado complicado e muitas vezes luta para encontrar seu lugar na gangue.",
+        "habilidades": [
+          "combate corpo a corpo",
+          "resistência física",
+          "sobrevivência",
+          "tiro preciso"
+        ],
+        "fraquezas": [
+          "dificuldade em confiar nos outros",
+          "passado complicado",
+          "tendência a se isolar"
+        ]
+      },
+      {
+        "id": 10,
+        "nome": "Abigail Roberts",
+        "idade": 28,
+        "sexo": "feminino",
+        "personalidade": "inteligente, determinada, leal",
+        "historia": "Abigail é uma membro da gangue Van der Linde que é conhecida por sua inteligência e determinação. Ela é leal à gangue e muitas vezes atua como uma conselheira estratégica.",
+        "habilidades": [
+          "inteligência",
+          "estratégia",
+          "comunicação",
+          "resistência mental"
+        ],
+        "fraquezas": [
+          "dificuldade em lidar com conflitos violentos",
+          "tendência a ser manipuladora",
+          "falta de empatia"
+        ]
+      },
+      {
+        "id": 11,
+        "nome": "Lenny",
+        "idade": 25,
+        "sexo": "masculino",
+        "personalidade": "calmo, leal, habilidoso",
+        "historia": "Lenny é um membro da gangue Van der Linde que é conhecido por sua calma e habilidades de caça e sobrevivência. Ele é leal à gangue e muitas vezes atua como um caçador e rastreador.",
+        "habilidades": [
+          "caça",
+          "rastreamento",
+          "resistência física",
+          "sobrevivência",
+          "combate corpo a corpo"
+        ],
+        "fraquezas": [
+          "dificuldade em lidar com conflitos violentos",
+          "tendência a ser reservado",
+          "dificuldade em confiar nos outros"
+        ]
+      },
+      {
+        "id": 11,
+        "nome": "Lenny",
+        "idade": 25,
+        "sexo": "masculino",
+        "personalidade": "calmo, leal, habilidoso",
+        "historia": "Lenny é um membro da gangue Van der Linde que é conhecido por sua calma e habilidades de caça e sobrevivência. Ele é leal à gangue e muitas vezes atua como um caçador e rastreador.",
+        "habilidades": [
+          "caça",
+          "rastreamento",
+          "resistência física",
+          "sobrevivência",
+          "combate corpo a corpo"
+        ],
+        "fraquezas": [
+          "dificuldade em lidar com conflitos violentos",
+          "tendência a ser reservado",
+          "dificuldade em confiar nos outros"
+        ]
+      },
+      {
+        "id": 11,
+        "nome": "Lenny",
+        "idade": 25,
+        "sexo": "masculino",
+        "personalidade": "calmo, leal, habilidoso",
+        "historia": "Lenny é um membro da gangue Van der Linde que é conhecido por sua calma e habilidades de caça e sobrevivência. Ele é leal à gangue e muitas vezes atua como um caçador e rastreador.",
+        "habilidades": [
+          "caça",
+          "rastreamento",
+          "resistência física",
+          "sobrevivência",
+          "combate corpo a corpo"
+        ],
+        "fraquezas": [
+          "dificuldade em lidar com conflitos violentos",
+          "tendência a ser reservado",
+          "dificuldade em confiar nos outros"
+        ]
+      },
+      {
+        "id": 1,
+        "nome": "Arthur Morgan",
+        "idade": 36,
+        "sexo": "masculino",
+        "personalidade": "leal, corajoso, complexo",
+        "historia": "Protagonista leal da gangue Van der Linde, moral complexa.",
+        "habilidades": [
+          "olho da morte",
+          "natação",
+          "tiro preciso",
+          "sobrevivência"
+        ],
+        "fraquezas": [
+          "drogas",
+          "saúde",
+          "conflitos internos"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "red-dead-dados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rdr2_banco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "lowdb": "^7.0.1"
+  }
+}
